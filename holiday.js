@@ -5,7 +5,6 @@ let i = 0;
 console.log(holidays);
 
 while (i < 16) {
-  let holidays = holidays[i];
   console.log(holidays[i]);
   i++;
 }
