@@ -1,3 +1,4 @@
+/* コミット用 */
 let sorceCategory;
 
 sorceCategory = '体重';
