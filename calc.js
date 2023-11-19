@@ -1,7 +1,7 @@
-let num =  Math.floor(Math.random() * 45);
+const num =  Math.floor(Math.random() * 45);
 console.log(num);
 
-if (num % 3 === 0)&&(num % 5 === 0) {
+if (num % 3 === 0 && num % 5 === 0) {
   console.log('“3と5の倍数です');
 }
 
