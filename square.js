@@ -5,8 +5,5 @@ const todayWeather = () => {
   console.log('今日は雨です');
 }
 
-const calculateNumber = (number) => {
-  console.log(number * 2);
-}
-
-calculateNumber(50);
+const calculateNumber = Math.pow(10,2);
+console.log(calculateNumber);
