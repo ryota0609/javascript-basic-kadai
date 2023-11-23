@@ -1,3 +1,4 @@
+/* コミット用スペース */
 const todayWeather = () => {
   console.log('今日は晴れです');
   console.log('今日は曇りです');
