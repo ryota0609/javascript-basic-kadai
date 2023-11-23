@@ -1,3 +1,4 @@
+/* コミット用ポイント */
 const date = new Date();
 const [year, month, day] = [
   date.getFullYear(2023),
